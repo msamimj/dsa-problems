@@ -1,0 +1,1997 @@
+[
+  {
+    "link": "https://leetcode.com/problems/two-sum/",
+    "name": "1. Two Sum",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/add-two-numbers/",
+    "name": "2. Add Two Numbers",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "name": "3. Longest Substring Without Repeating Characters",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+    "name": "4. Median of Two Sorted Arrays",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-palindromic-substring/",
+    "name": "5. Longest Palindromic Substring",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/zigzag-conversion/",
+    "name": "6. Zigzag Conversion",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/reverse-integer/",
+    "name": "7. Reverse Integer",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/string-to-integer-atoi/",
+    "name": "8. String to Integer (atoi)",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/palindrome-number/",
+    "name": "9. Palindrome Number",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/container-with-most-water/",
+    "name": "11. Container With Most Water",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/integer-to-roman/",
+    "name": "12. Integer to Roman",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/roman-to-integer/",
+    "name": "13. Roman to Integer",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-common-prefix/",
+    "name": "14. Longest Common Prefix",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+    "name": "17. Letter Combinations of a Phone Number",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/regular-expression-matching/",
+    "name": "10. Regular Expression Matching",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/3sum/",
+    "name": "15. 3Sum",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists/",
+    "name": "21. Merge Two Sorted Lists",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/generate-parentheses/",
+    "name": "22. Generate Parentheses",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/merge-k-sorted-lists/",
+    "name": "23. Merge k Sorted Lists",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+    "name": "24. Swap Nodes in Pairs",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+    "name": "25. Reverse Nodes in k-Group",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/valid-parentheses/",
+    "name": "20. Valid Parentheses",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/remove-element/",
+    "name": "27. Remove Element",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+    "name": "28. Find the Index of the First Occurrence in a String",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/divide-two-integers/",
+    "name": "29. Divide Two Integers",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+    "name": "1004. Max Consecutive Ones III",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/next-permutation/",
+    "name": "31. Next Permutation",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+    "name": "33. Search in Rotated Sorted Array",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+    "name": "34. Find First and Last Position of Element in Sorted Array",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/search-insert-position/",
+    "name": "35. Search Insert Position",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/valid-sudoku/",
+    "name": "36. Valid Sudoku",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/sudoku-solver/",
+    "name": "37. Sudoku Solver",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/combination-sum/",
+    "name": "39. Combination Sum",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/first-missing-positive/",
+    "name": "41. First Missing Positive",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/trapping-rain-water/",
+    "name": "42. Trapping Rain Water",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/multiply-strings/",
+    "name": "43. Multiply Strings",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/wildcard-matching/",
+    "name": "44. Wildcard Matching",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/jump-game-ii/",
+    "name": "45. Jump Game II",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/rotate-image/",
+    "name": "48. Rotate Image",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/group-anagrams/",
+    "name": "49. Group Anagrams",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/powx-n/",
+    "name": "50. Pow(x, n)",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/n-queens/",
+    "name": "51. N-Queens",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-subarray/",
+    "name": "53. Maximum Subarray",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/spiral-matrix/",
+    "name": "54. Spiral Matrix",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/jump-game/",
+    "name": "55. Jump Game",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/merge-intervals/",
+    "name": "56. Merge Intervals",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/unique-paths/",
+    "name": "62. Unique Paths",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-path-sum/",
+    "name": "64. Minimum Path Sum",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/sqrtx/",
+    "name": "69. Sqrt(x)",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/climbing-stairs/",
+    "name": "70. Climbing Stairs",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/set-matrix-zeroes/",
+    "name": "73. Set Matrix Zeroes",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/search-a-2d-matrix/",
+    "name": "74. Search a 2D Matrix",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/sort-colors/",
+    "name": "75. Sort Colors",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-window-substring/",
+    "name": "76. Minimum Window Substring",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/word-search/",
+    "name": "79. Word Search",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+    "name": "84. Largest Rectangle in Histogram",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/merge-sorted-array/",
+    "name": "88. Merge Sorted Array",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/restore-ip-addresses/",
+    "name": "93. Restore IP Addresses",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+    "name": "94. Binary Tree Inorder Traversal",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/rotting-oranges/",
+    "name": "994. Rotting Oranges",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/validate-binary-search-tree/",
+    "name": "98. Validate Binary Search Tree",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+    "name": "19. Remove Nth Node From End of List",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+    "name": "103. Binary Tree Zigzag Level Order Traversal",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/pascals-triangle/",
+    "name": "118. Pascal's Triangle",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "name": "121. Best Time to Buy and Sell Stock",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+    "name": "122. Best Time to Buy and Sell Stock II",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/",
+    "name": "123. Best Time to Buy and Sell Stock III",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+    "name": "124. Binary Tree Maximum Path Sum",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/word-ladder/",
+    "name": "127. Word Ladder",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence/",
+    "name": "128. Longest Consecutive Sequence",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/gas-station/",
+    "name": "134. Gas Station",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/candy/",
+    "name": "135. Candy",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/single-number/",
+    "name": "136. Single Number",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+    "name": "138. Copy List with Random Pointer",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/word-break/",
+    "name": "139. Word Break",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/linked-list-cycle/",
+    "name": "141. Linked List Cycle",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
+    "name": "150. Evaluate Reverse Polish Notation",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/lru-cache/",
+    "name": "146. LRU Cache",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-product-subarray/",
+    "name": "152. Maximum Product Subarray",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/reverse-words-in-a-string/",
+    "name": "151. Reverse Words in a String",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/min-stack/",
+    "name": "155. Min Stack",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/find-peak-element/",
+    "name": "162. Find Peak Element",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+    "name": "167. Two Sum II - Input Array Is Sorted",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/majority-element/",
+    "name": "169. Majority Element",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/excel-sheet-column-number/",
+    "name": "171. Excel Sheet Column Number",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/rotate-array/",
+    "name": "189. Rotate Array",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/house-robber/",
+    "name": "198. House Robber",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/number-of-islands/",
+    "name": "200. Number of Islands",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/happy-number/",
+    "name": "202. Happy Number",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/isomorphic-strings/",
+    "name": "205. Isomorphic Strings",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/course-schedule/",
+    "name": "207. Course Schedule",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/reverse-linked-list/",
+    "name": "206. Reverse Linked List",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/course-schedule-ii/",
+    "name": "210. Course Schedule II",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+    "name": "208. Implement Trie (Prefix Tree)",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/house-robber-ii/",
+    "name": "213. House Robber II",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+    "name": "215. Kth Largest Element in an Array",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/basic-calculator/",
+    "name": "224. Basic Calculator",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/palindrome-linked-list/",
+    "name": "234. Palindrome Linked List",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+    "name": "236. Lowest Common Ancestor of a Binary Tree",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/product-of-array-except-self/",
+    "name": "238. Product of Array Except Self",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/article-views-i/",
+    "name": "1148. Article Views I",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/valid-anagram/",
+    "name": "242. Valid Anagram",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/meeting-rooms-ii/",
+    "name": "253. Meeting Rooms II",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/missing-number/",
+    "name": "268. Missing Number",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/encode-and-decode-strings/",
+    "name": "271. Encode and Decode Strings",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/integer-to-english-words/",
+    "name": "273. Integer to English Words",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/find-the-celebrity/",
+    "name": "277. Find the Celebrity",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/move-zeroes/",
+    "name": "283. Move Zeroes",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/find-median-from-data-stream/",
+    "name": "295. Find Median from Data Stream",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+    "name": "297. Serialize and Deserialize Binary Tree",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-increasing-subsequence/",
+    "name": "300. Longest Increasing Subsequence",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/remove-duplicate-letters/",
+    "name": "316. Remove Duplicate Letters",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/coin-change/",
+    "name": "322. Coin Change",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/reverse-vowels-of-a-string/",
+    "name": "345. Reverse Vowels of a String",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/top-k-frequent-elements/",
+    "name": "347. Top K Frequent Elements",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/design-tic-tac-toe/",
+    "name": "348. Design Tic-Tac-Toe",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays/",
+    "name": "349. Intersection of Two Arrays",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/insert-delete-getrandom-o1/",
+    "name": "380. Insert Delete GetRandom O(1)",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/first-unique-character-in-a-string/",
+    "name": "387. First Unique Character in a String",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/decode-string/",
+    "name": "394. Decode String",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/all-oone-data-structure/",
+    "name": "432. All O`one Data Structure",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/string-compression/",
+    "name": "443. String Compression",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/lfu-cache/",
+    "name": "460. LFU Cache",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/",
+    "name": "1378. Replace Employee ID With The Unique Identifier",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/",
+    "name": "1466. Reorder Routes to Make All Paths Lead to the City Zero",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k/",
+    "name": "560. Subarray Sum Equals K",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/asteroid-collision/",
+    "name": "735. Asteroid Collision",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/daily-temperatures/",
+    "name": "739. Daily Temperatures",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/create-hello-world-function/",
+    "name": "2667. Create Hello World Function",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/merge-strings-alternately/",
+    "name": "1768. Merge Strings Alternately",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/recyclable-and-low-fat-products/",
+    "name": "1757. Recyclable and Low Fat Products",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/koko-eating-bananas/",
+    "name": "875. Koko Eating Bananas",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/",
+    "name": "1838. Frequency of the Most Frequent Element",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/create-a-dataframe-from-list/",
+    "name": "2877. Create a DataFrame from List",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/time-based-key-value-store/",
+    "name": "981. Time Based Key-Value Store",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+    "name": "26. Remove Duplicates from Sorted Array",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/permutation-in-string/",
+    "name": "567. Permutation in String",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/recover-binary-search-tree/",
+    "name": "99. Recover Binary Search Tree",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/valid-palindrome/",
+    "name": "125. Valid Palindrome",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+    "name": "160. Intersection of Two Linked Lists",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/contains-duplicate-ii/",
+    "name": "219. Contains Duplicate II",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/flood-fill/",
+    "name": "733. Flood Fill",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/majority-element-ii/",
+    "name": "229. Majority Element II",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/is-subsequence/",
+    "name": "392. Is Subsequence",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/permutations/",
+    "name": "46. Permutations",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-arithmetic-subsequence/",
+    "name": "1027. Longest Arithmetic Subsequence",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/edit-distance/",
+    "name": "72. Edit Distance",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+    "name": "102. Binary Tree Level Order Traversal",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+    "name": "153. Find Minimum in Rotated Sorted Array",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/excel-sheet-column-title/",
+    "name": "168. Excel Sheet Column Title",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/add-two-numbers-ii/",
+    "name": "445. Add Two Numbers II",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/partition-equal-subset-sum/",
+    "name": "416. Partition Equal Subset Sum",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/next-greater-element-i/",
+    "name": "496. Next Greater Element I",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/4sum/",
+    "name": "18. 4Sum",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/making-a-large-island/",
+    "name": "827. Making A Large Island",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/reverse-pairs/",
+    "name": "493. Reverse Pairs",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/greatest-common-divisor-of-strings/",
+    "name": "1071. Greatest Common Divisor of Strings",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/find-customer-referee/",
+    "name": "584. Find Customer Referee",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/",
+    "name": "80. Remove Duplicates from Sorted Array II",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-valid-parentheses/",
+    "name": "32. Longest Valid Parentheses",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/plus-one/",
+    "name": "66. Plus One",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
+    "name": "992. Subarrays with K Different Integers",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/add-two-integers/",
+    "name": "2235. Add Two Integers",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/add-binary/",
+    "name": "67. Add Binary",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/h-index/",
+    "name": "274. H-Index",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/interleaving-string/",
+    "name": "97. Interleaving String",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-common-subsequence/",
+    "name": "1143. Longest Common Subsequence",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/confirmation-rate/",
+    "name": "1934. Confirmation Rate",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/remove-outermost-parentheses/",
+    "name": "1021. Remove Outermost Parentheses",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/basic-calculator-ii/",
+    "name": "227. Basic Calculator II",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/same-tree/",
+    "name": "100. Same Tree",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/palindrome-partitioning/",
+    "name": "131. Palindrome Partitioning",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/valid-perfect-square/",
+    "name": "367. Valid Perfect Square",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/",
+    "name": "1047. Remove All Adjacent Duplicates In String",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+    "name": "83. Remove Duplicates from Sorted List",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/ransom-note/",
+    "name": "383. Ransom Note",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/rising-temperature/",
+    "name": "197. Rising Temperature",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/find-all-anagrams-in-a-string/",
+    "name": "438. Find All Anagrams in a String",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/big-countries/",
+    "name": "595. Big Countries",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/middle-of-the-linked-list/",
+    "name": "876. Middle of the Linked List",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/design-add-and-search-words-data-structure/",
+    "name": "211. Design Add and Search Words Data Structure",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/can-place-flowers/",
+    "name": "605. Can Place Flowers",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/perfect-squares/",
+    "name": "279. Perfect Squares",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/implement-stack-using-queues/",
+    "name": "225. Implement Stack using Queues",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/bus-routes/",
+    "name": "815. Bus Routes",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/string-compression-ii/",
+    "name": "1531. String Compression II",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/increasing-triplet-subsequence/",
+    "name": "334. Increasing Triplet Subsequence",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/subsets/",
+    "name": "78. Subsets",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/reorder-list/",
+    "name": "143. Reorder List",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/counter/",
+    "name": "2620. Counter",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/random-pick-with-weight/",
+    "name": "528. Random Pick with Weight",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/angle-between-hands-of-a-clock/",
+    "name": "1344. Angle Between Hands of a Clock",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/ipo/",
+    "name": "502. IPO",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/fizz-buzz/",
+    "name": "412. Fizz Buzz",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/rectangle-overlap/",
+    "name": "836. Rectangle Overlap",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/contiguous-array/",
+    "name": "525. Contiguous Array",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/assign-cookies/",
+    "name": "455. Assign Cookies",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/",
+    "name": "1072. Flip Columns For Maximum Number of Equal Rows",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-matrix-sum/",
+    "name": "1975. Maximum Matrix Sum",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/subsets-ii/",
+    "name": "90. Subsets II",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/",
+    "name": "1431. Kids With the Greatest Number of Candies",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/alien-dictionary/",
+    "name": "269. Alien Dictionary",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/",
+    "name": "2577. Minimum Time to Visit a Cell In a Grid",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/",
+    "name": "1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/check-if-n-and-its-double-exist/",
+    "name": "1346. Check If N and Its Double Exist",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/average-selling-price/",
+    "name": "1251. Average Selling Price",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/two-best-non-overlapping-events/",
+    "name": "2054. Two Best Non-Overlapping Events",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+    "name": "540. Single Element in a Sorted Array",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/",
+    "name": "3377. Digit Operations to Make Two Integers Equal",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/find-k-closest-elements/",
+    "name": "658. Find K Closest Elements",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/k-inverse-pairs-array/",
+    "name": "629. K Inverse Pairs Array",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/target-sum/",
+    "name": "494. Target Sum",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/word-pattern-ii/",
+    "name": "291. Word Pattern II",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/",
+    "name": "3264. Final Array State After K Multiplication Operations I",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/spiral-matrix-ii/",
+    "name": "59. Spiral Matrix II",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/rank-scores/",
+    "name": "178. Rank Scores",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/shortest-distance-from-all-buildings/",
+    "name": "317. Shortest Distance from All Buildings",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/find-largest-value-in-each-tree-row/",
+    "name": "515. Find Largest Value in Each Tree Row",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/russian-doll-envelopes/",
+    "name": "354. Russian Doll Envelopes",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/count-vowel-strings-in-ranges/",
+    "name": "2559. Count Vowel Strings in Ranges",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/fix-names-in-a-table/",
+    "name": "1667. Fix Names in a Table",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/circle-and-rectangle-overlapping/",
+    "name": "1401. Circle and Rectangle Overlapping",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/number-of-ways-to-split-array/",
+    "name": "2270. Number of Ways to Split Array",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/count-paths-with-the-given-xor-value/",
+    "name": "3393. Count Paths With the Given XOR Value",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/fibonacci-number/",
+    "name": "509. Fibonacci Number",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/coin-change-ii/",
+    "name": "518. Coin Change II",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+    "name": "104. Maximum Depth of Binary Tree",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/",
+    "name": "2970. Count the Number of Incremovable Subarrays I",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/string-matching-in-an-array/",
+    "name": "1408. String Matching in an Array",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/word-subsets/",
+    "name": "916. Word Subsets",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/counting-words-with-a-given-prefix/",
+    "name": "2185. Counting Words With a Given Prefix",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/count-good-numbers/",
+    "name": "1922. Count Good Numbers",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/construct-k-palindrome-strings/",
+    "name": "1400. Construct K Palindrome Strings",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/invalid-transactions/",
+    "name": "1169. Invalid Transactions",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/binary-search/",
+    "name": "704. Binary Search",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/",
+    "name": "3420. Count Non-Decreasing Subarrays After K Operations",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/",
+    "name": "2657. Find the Prefix Common Array of Two Arrays",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling/",
+    "name": "1235. Maximum Profit in Job Scheduling",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/minimize-xor/",
+    "name": "2429. Minimize XOR",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/customers-who-never-order/",
+    "name": "183. Customers Who Never Order",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/",
+    "name": "30. Substring with Concatenation of All Words",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+    "name": "240. Search a 2D Matrix II",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/combinations/",
+    "name": "77. Combinations",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/",
+    "name": "862. Shortest Subarray with Sum at Least K",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/max-points-on-a-line/",
+    "name": "149. Max Points on a Line",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/interval-list-intersections/",
+    "name": "986. Interval List Intersections",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/factorial-trailing-zeroes/",
+    "name": "172. Factorial Trailing Zeroes",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/grid-game/",
+    "name": "2017. Grid Game",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/",
+    "name": "1482. Minimum Number of Days to Make m Bouquets",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/binary-search-tree-iterator/",
+    "name": "173. Binary Search Tree Iterator",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/baseball-game/",
+    "name": "682. Baseball Game",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+    "name": "1248. Count Number of Nice Subarrays",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/",
+    "name": "1839. Longest Substring Of All Vowels in Order",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/linked-list-cycle-ii/",
+    "name": "142. Linked List Cycle II",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/nim-game/",
+    "name": "292. Nim Game",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/find-the-difference/",
+    "name": "389. Find the Difference",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/",
+    "name": "1769. Minimum Number of Operations to Move All Balls to Each Box",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/",
+    "name": "2658. Maximum Number of Fish in a Grid",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/",
+    "name": "2493. Divide Nodes Into the Maximum Number of Groups",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/find-the-duplicate-number/",
+    "name": "287. Find the Duplicate Number",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/sum-root-to-leaf-numbers/",
+    "name": "129. Sum Root to Leaf Numbers",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/",
+    "name": "2385. Amount of Time for Binary Tree to Be Infected",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/special-array-i/",
+    "name": "3151. Special Array I",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/loud-and-rich/",
+    "name": "851. Loud and Rich",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/count-and-say/",
+    "name": "38. Count and Say",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/count-binary-substrings/",
+    "name": "696. Count Binary Substrings",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/length-of-last-word/",
+    "name": "58. Length of Last Word",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/",
+    "name": "3105. Longest Strictly Increasing or Strictly Decreasing Subarray",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/reverse-string-ii/",
+    "name": "541. Reverse String II",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-ascending-subarray-sum/",
+    "name": "1800. Maximum Ascending Subarray Sum",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
+    "name": "1283. Find the Smallest Divisor Given a Threshold",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/max-consecutive-ones/",
+    "name": "485. Max Consecutive Ones",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/find-eventual-safe-states/",
+    "name": "802. Find Eventual Safe States",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/tuple-with-same-product/",
+    "name": "1726. Tuple with Same Product",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/invalid-tweets/",
+    "name": "1683. Invalid Tweets",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+    "name": "787. Cheapest Flights Within K Stops",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring/",
+    "name": "1910. Remove All Occurrences of a Substring",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/restaurant-growth/",
+    "name": "1321. Restaurant Growth",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/",
+    "name": "2058. Find the Minimum and Maximum Number of Nodes Between Critical Points",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/design-search-autocomplete-system/",
+    "name": "642. Design Search Autocomplete System",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/",
+    "name": "2342. Max Sum of a Pair With Equal Sum of Digits",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/counting-bits/",
+    "name": "338. Counting Bits",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/fruit-into-baskets/",
+    "name": "904. Fruit Into Baskets",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/product-of-the-last-k-numbers/",
+    "name": "1352. Product of the Last K Numbers",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/valid-number/",
+    "name": "65. Valid Number",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/list-the-products-ordered-in-a-period/",
+    "name": "1327. List the Products Ordered in a Period",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/find-unique-binary-string/",
+    "name": "1980. Find Unique Binary String",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/max-chunks-to-make-sorted/",
+    "name": "769. Max Chunks To Make Sorted",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/duplicate-emails/",
+    "name": "182. Duplicate Emails",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/",
+    "name": "117. Populating Next Right Pointers in Each Node II",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/power-of-two/",
+    "name": "231. Power of Two",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/add-strings/",
+    "name": "415. Add Strings",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/second-highest-salary/",
+    "name": "176. Second Highest Salary",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/",
+    "name": "2220. Minimum Bit Flips to Convert Number",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/insert-interval/",
+    "name": "57. Insert Interval",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/",
+    "name": "1524. Number of Sub-arrays With Odd Sum",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/",
+    "name": "1749. Maximum Absolute Sum of Any Subarray",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/",
+    "name": "889. Construct Binary Tree from Preorder and Postorder Traversal",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/",
+    "name": "873. Length of Longest Fibonacci Subsequence",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/sort-list/",
+    "name": "148. Sort List",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+    "name": "653. Two Sum IV - Input is a BST",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/shortest-common-supersequence/",
+    "name": "1092. Shortest Common Supersequence ",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/sliding-window-maximum/",
+    "name": "239. Sliding Window Maximum",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/",
+    "name": "1028. Recover a Tree From Preorder Traversal",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/find-longest-special-substring-that-occurs-thrice-i/",
+    "name": "2981. Find Longest Special Substring That Occurs Thrice I",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/set-mismatch/",
+    "name": "645. Set Mismatch",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/",
+    "name": "714. Best Time to Buy and Sell Stock with Transaction Fee",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/employees-earning-more-than-their-managers/",
+    "name": "181. Employees Earning More Than Their Managers",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/",
+    "name": "1275. Find Winner on a Tic Tac Toe Game",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/partition-array-according-to-given-pivot/",
+    "name": "2161. Partition Array According to Given Pivot",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/",
+    "name": "154. Find Minimum in Rotated Sorted Array II",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/find-missing-and-repeated-values/",
+    "name": "2965. Find Missing and Repeated Values",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/count-the-number-of-special-characters-ii/",
+    "name": "3121. Count the Number of Special Characters II",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/next-greater-element-ii/",
+    "name": "503. Next Greater Element II",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/",
+    "name": "448. Find All Numbers Disappeared in an Array",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/number-of-1-bits/",
+    "name": "191. Number of 1 Bits",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/alternating-groups-ii/",
+    "name": "3208. Alternating Groups II",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-sideway-jumps/",
+    "name": "1824. Minimum Sideway Jumps",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/",
+    "name": "1372. Longest ZigZag Path in a Binary Tree",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/predict-the-winner/",
+    "name": "486. Predict the Winner",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/ugly-number/",
+    "name": "263. Ugly Number",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/combination-sum-ii/",
+    "name": "40. Combination Sum II",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/combine-two-tables/",
+    "name": "175. Combine Two Tables",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/diagonal-traverse/",
+    "name": "498. Diagonal Traverse",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/path-with-minimum-effort/",
+    "name": "1631. Path With Minimum Effort",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/fruits-into-baskets-ii/",
+    "name": "3477. Fruits Into Baskets II",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/permutations-ii/",
+    "name": "47. Permutations II",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/",
+    "name": "2061. Number of Spaces Cleaning Robot Cleaned",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-candies-allocated-to-k-children/",
+    "name": "2226. Maximum Candies Allocated to K Children",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/house-robber-iv/",
+    "name": "2560. House Robber IV",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/kth-missing-positive-number/",
+    "name": "1539. Kth Missing Positive Number",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/remove-k-digits/",
+    "name": "402. Remove K Digits",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/divide-array-into-equal-pairs/",
+    "name": "2206. Divide Array Into Equal Pairs",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-nice-subarray/",
+    "name": "2401. Longest Nice Subarray",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/sort-an-array/",
+    "name": "912. Sort an Array",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/",
+    "name": "340. Longest Substring with At Most K Distinct Characters",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+    "name": "209. Minimum Size Subarray Sum",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/",
+    "name": "3108. Minimum Cost Walk in Weighted Graph",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-time-to-repair-cars/",
+    "name": "2594. Minimum Time to Repair Cars",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/snakes-and-ladders/",
+    "name": "909. Snakes and Ladders",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+    "name": "2149. Rearrange Array Elements by Sign",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/count-the-number-of-complete-components/",
+    "name": "2685. Count the Number of Complete Components",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/split-array-largest-sum/",
+    "name": "410. Split Array Largest Sum",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/count-days-without-meetings/",
+    "name": "3169. Count Days Without Meetings",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/",
+    "name": "1373. Maximum Sum BST in Binary Tree",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/valid-parenthesis-string/",
+    "name": "678. Valid Parenthesis String",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/",
+    "name": "2033. Minimum Operations to Make a Uni-Value Grid",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/serialize-and-deserialize-bst/",
+    "name": "449. Serialize and Deserialize BST",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/third-maximum-number/",
+    "name": "414. Third Maximum Number",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/shortest-palindrome/",
+    "name": "214. Shortest Palindrome",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/",
+    "name": "1290. Convert Binary Number in a Linked List to Integer",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/reverse-string/",
+    "name": "344. Reverse String",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/online-stock-span/",
+    "name": "901. Online Stock Span",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+    "name": "108. Convert Sorted Array to Binary Search Tree",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/",
+    "name": "2874. Maximum Value of an Ordered Triplet II",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/sum-of-square-numbers/",
+    "name": "633. Sum of Square Numbers",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/single-threaded-cpu/",
+    "name": "1834. Single-Threaded CPU",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/memoize/",
+    "name": "2623. Memoize",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+    "name": "235. Lowest Common Ancestor of a Binary Search Tree",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/sum-of-all-subset-xor-totals/",
+    "name": "1863. Sum of All Subset XOR Totals",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-frequency-stack/",
+    "name": "895. Maximum Frequency Stack",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/largest-divisible-subset/",
+    "name": "368. Largest Divisible Subset",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
+    "name": "1752. Check if Array Is Sorted and Rotated",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/snapshot-array/",
+    "name": "1146. Snapshot Array",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/implement-queue-using-stacks/",
+    "name": "232. Implement Queue using Stacks",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
+    "name": "378. Kth Smallest Element in a Sorted Matrix",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/reformat-department-table/",
+    "name": "1179. Reformat Department Table",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/game-play-analysis-i/",
+    "name": "511. Game Play Analysis I",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/count-symmetric-integers/",
+    "name": "2843.   Count Symmetric Integers",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/rotate-string/",
+    "name": "796. Rotate String",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/logger-rate-limiter/",
+    "name": "359. Logger Rate Limiter",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/house-robber-iii/",
+    "name": "337. House Robber III",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/sort-characters-by-frequency/",
+    "name": "451. Sort Characters By Frequency",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/summary-ranges/",
+    "name": "228. Summary Ranges",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/validate-binary-tree-nodes/",
+    "name": "1361. Validate Binary Tree Nodes",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/critical-connections-in-a-network/",
+    "name": "1192. Critical Connections in a Network",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/count-the-number-of-good-subarrays/",
+    "name": "2537. Count the Number of Good Subarrays",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/",
+    "name": "2481. Minimum Cuts to Divide a Circle",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/path-sum-iii/",
+    "name": "437. Path Sum III",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+    "name": "746. Min Cost Climbing Stairs",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/symmetric-tree/",
+    "name": "101. Symmetric Tree",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/total-cost-to-hire-k-workers/",
+    "name": "2462. Total Cost to Hire K Workers",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/",
+    "name": "109. Convert Sorted List to Binary Search Tree",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue/",
+    "name": "1944. Number of Visible People in a Queue",
+    "level": "Hard"
+  },
+  {
+    "link": "https://leetcode.com/problems/repeated-string-match/",
+    "name": "686. Repeated String Match",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/",
+    "name": "602. Friend Requests II: Who Has the Most Friends",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+    "name": "1423. Maximum Points You Can Obtain from Cards",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/sum-of-subarray-minimums/",
+    "name": "907. Sum of Subarray Minimums",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/maximal-square/",
+    "name": "221. Maximal Square",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/all-possible-full-binary-trees/",
+    "name": "894. All Possible Full Binary Trees",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/students-and-examinations/",
+    "name": "1280. Students and Examinations",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits/",
+    "name": "1295. Find Numbers with Even Number of Digits",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/project-employees-i/",
+    "name": "1075. Project Employees I",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/contains-duplicate/",
+    "name": "217. Contains Duplicate",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/build-array-from-permutation/",
+    "name": "1920. Build Array from Permutation",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/peak-index-in-a-mountain-array/",
+    "name": "852. Peak Index in a Mountain Array",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/game-play-analysis-iv/",
+    "name": "550. Game Play Analysis IV",
+    "level": "Med."
+  },
+  {
+    "link": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+    "name": "977. Squares of a Sorted Array",
+    "level": "Easy"
+  },
+  {
+    "link": "https://leetcode.com/problems/merge-two-binary-trees/",
+    "name": "617. Merge Two Binary Trees",
+    "level": "Easy"
+  }
+]
